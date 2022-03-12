@@ -8,8 +8,9 @@
 
 
 /* 
-betty style doc for function main goes there
-*main - print whether the variable n is positive or negative.
+*
+* main - print whether the variable n is positive or negative.
+*
 */
 
 int main(void)
